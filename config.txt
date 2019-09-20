@@ -1,6 +1,6 @@
-owner=516473846983950336
+owner=513106487032152067
 prefix=1
-game=play
+game=Arab Light Server RP
 stayinchannel=true
 songinstatus=false
-token=NTMyOTM4ODQ4ODA4ODYxNzE5.DxjzfA.Nss_r9BRZ1VEpyeHgketTem5q_o
+token=NjI0NjE5Mjg3OTgxNzE5NTUy.XYTpKw.W0h5BMllMUXCxa6forn0P45M31k
